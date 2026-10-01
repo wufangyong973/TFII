@@ -2,7 +2,10 @@
 # Python bytecode (from local syntax checks)
 __pycache__/
 *.pyc
+temp_auto_push.bat
 
 # Frontend build tooling (package.json is tracked; install output is not)
 node_modules/
 frontend/build/
+.gitignore
+branch_structure.json
