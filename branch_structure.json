@@ -1,0 +1,24 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "claude/charming-wright-scu3ti",
+    "claude/optimistic-franklin-rjsb2f",
+    "docs/fix-stale-fonts-note",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "claude/charming-wright-scu3ti": "master",
+    "claude/optimistic-franklin-rjsb2f": "master",
+    "docs/fix-stale-fonts-note": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "claude/charming-wright-scu3ti",
+    "claude/optimistic-franklin-rjsb2f",
+    "docs/fix-stale-fonts-note",
+    "origin"
+  ]
+}
